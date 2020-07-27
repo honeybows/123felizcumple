@@ -1,0 +1,42 @@
+
+body {
+	line-height: 0px;
+	font: small-caps 88%/27% serif;
+}
+a{
+	color: #000000
+	underline: none;
+	text-decoration: none;
+}
+h1 {
+	font-size: 29px;
+	color: #000;
+	font-family: Times, 'Time New Roman';
+}
+
+h2 {
+	font-size: 24px;
+	color: #000;
+	font-family: Times, 'Time New Roman';
+}
+
+h3 {
+	font-size: 21px;
+	color: #000;
+	font-family: Times, 'Time New Roman';
+}
+
+h4 {
+	font-size: 9px;
+	color: #000;
+	font: small-caps 100%/27% serif;
+	font-family: Georgia;
+}
+
+h5 {
+	font-size: 9px;
+	color: #000;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
